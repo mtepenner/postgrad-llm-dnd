@@ -29,7 +29,7 @@ LLM Dungeon Master is a lightweight Python application that transforms an OpenAI
 
     ```bash
     git clone https://github.com/mtepenner/postgrad-llm-dnd.git
-    cd llm-dungeon-master
+    cd postgrad-llm-dnd
     ```
 
 2.  **Install dependencies**:
