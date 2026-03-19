@@ -9,7 +9,6 @@ LLM Dungeon Master is a lightweight Python application that transforms an OpenAI
   - [Installation](https://www.google.com/search?q=%23-installation)
   - [Usage](https://www.google.com/search?q=%23-usage)
   - [Project Structure](https://www.google.com/search?q=%23-project-structure)
-  - [License](https://www.google.com/search?q=%23-license)
 
 ## 🚀 Features
 
