@@ -28,7 +28,7 @@ LLM Dungeon Master is a lightweight Python application that transforms an OpenAI
 1.  **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/llm-dungeon-master.git
+    git clone https://github.com/mtepenner/postgrad-llm-dnd.git
     cd llm-dungeon-master
     ```
 
